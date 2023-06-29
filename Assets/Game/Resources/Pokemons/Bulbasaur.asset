@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0105718abf74e4d01b72fa2f3e2a8567, type: 3}
+  m_Name: Bulbasaur
+  m_EditorClassIdentifier: 
+  pokemonName: Bulbasaur
+  description: 
+  frontSprite: {fileID: 21300000, guid: cb3550c0d54b1438085dc31dd4d8c162, type: 3}
+  backSprite: {fileID: 21300000, guid: 236a51695b6d14251a84adf1a6a3b8c5, type: 3}
+  type1: 10
+  type2: 14
+  maxHp: 45
+  attack: 49
+  defense: 49
+  spAttack: 65
+  spDefense: 65
+  speed: 45
+  movePool:
+  - moveBase: {fileID: 11400000, guid: c275a5b93f5e44890a13585c4ae269af, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0fce50cbcdb93457bb1df3371567f090, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 676357fd3b4214d599caced9507e5569, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: 9705e89b2ac5e4e418a9ad70857c6ff2, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: bec7e9afc98414563baabc63417734e7, type: 2}
+    level: 13
+  - moveBase: {fileID: 11400000, guid: 20ea2a676c3564ddf98e5d3d04fe40dd, type: 2}
+    level: 13
+  - moveBase: {fileID: 11400000, guid: 93252ceeda06447ba902d5b9fe79d35b, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 945e6d466cb11434c8b9d8e86dda2b78, type: 2}
+    level: 19
+  - moveBase: {fileID: 11400000, guid: b863be372052a4da1b1ce69414b9a777, type: 2}
+    level: 21
+  - moveBase: {fileID: 11400000, guid: a5b50d604766c49eeb57d67dad2abf60, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: ec5285b68dd6b4f7093fb34747c60470, type: 2}
+    level: 27
+  - moveBase: {fileID: 11400000, guid: 6bc418e2acd4c4c0d8ca166555f5a6d5, type: 2}
+    level: 31
+  - moveBase: {fileID: 11400000, guid: eb6dde15032b24ab78f890a6c325c09e, type: 2}
+    level: 33
+  - moveBase: {fileID: 11400000, guid: e30ccfb8e228f42af91cb798484bbbe4, type: 2}
+    level: 37

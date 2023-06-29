@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0105718abf74e4d01b72fa2f3e2a8567, type: 3}
+  m_Name: Pidgey
+  m_EditorClassIdentifier: 
+  pokemonName: Pidgey
+  description: 
+  frontSprite: {fileID: 21300000, guid: 152eb692f19a240b59689056c9bae248, type: 3}
+  backSprite: {fileID: 21300000, guid: 0b90a6449004645ee90d92154bb5eee6, type: 3}
+  type1: 13
+  type2: 8
+  maxHp: 40
+  attack: 45
+  defense: 40
+  spAttack: 35
+  spDefense: 35
+  speed: 56
+  movePool: []

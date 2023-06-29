@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0105718abf74e4d01b72fa2f3e2a8567, type: 3}
+  m_Name: Pikachu
+  m_EditorClassIdentifier: 
+  pokemonName: Pikachu
+  description: 
+  frontSprite: {fileID: 21300000, guid: 6cdd923619e6849c2989c7fdb68cf427, type: 3}
+  backSprite: {fileID: 21300000, guid: 7057171e9fe524fada6993b01cfca434, type: 3}
+  type1: 4
+  type2: 0
+  maxHp: 35
+  attack: 55
+  defense: 40
+  spAttack: 50
+  spDefense: 50
+  speed: 90
+  movePool:
+  - moveBase: {fileID: 11400000, guid: f77b2a6a333f848af991428ceffeaae3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c275a5b93f5e44890a13585c4ae269af, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c44aabbe9699c441080568dd2bb9a62d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: fb60603212de3446fa87c04f663afae1, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 021a6770f05e74718afa80d6ac727e72, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8428b390b859f46b78a341f01dac8c66, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 40fc6c1df22c84500b8be8d17b681104, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 839ae5482ce58455a9d26366ba2487f3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: eebf0aec86bb9495f95778f1268808f6, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 39f80b18b6fa84f45b1aac490dbc5256, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 40aad04dcf24c4e459307b37ad896643, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 7b4acc204be624e5b9e522afe030f4c1, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 9abe74002934b42b3ae9487d8c7662c9, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 46bcd31c1ab6c4f6d90077a744b10141, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 2de5c0354fb534ed9bf54474bc3ae3f1, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 3117530b17b16467aa15a57d959ab7dc, type: 2}
+    level: 28
+  - moveBase: {fileID: 11400000, guid: 8d0995df463934aa895f033648188e12, type: 2}
+    level: 32
+  - moveBase: {fileID: 11400000, guid: 943c6af36b67948639c1af6c571a7b43, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: b57823371aed34280b1eb8bae78c822f, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: 19229dad72ef44bbc81aa3a3b6a01f1c, type: 2}
+    level: 44

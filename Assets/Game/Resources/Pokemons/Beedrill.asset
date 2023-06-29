@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0105718abf74e4d01b72fa2f3e2a8567, type: 3}
+  m_Name: Beedrill
+  m_EditorClassIdentifier: 
+  pokemonName: Beedrill
+  description: 
+  frontSprite: {fileID: 21300000, guid: 18a4b07b46e8547da95b9496a9ddff02, type: 3}
+  backSprite: {fileID: 21300000, guid: bbbbb6b66630d44b3be16a6e2a2fc6c9, type: 3}
+  type1: 1
+  type2: 14
+  maxHp: 65
+  attack: 90
+  defense: 40
+  spAttack: 45
+  spDefense: 80
+  speed: 75
+  movePool: []

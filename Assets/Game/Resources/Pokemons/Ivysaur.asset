@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0105718abf74e4d01b72fa2f3e2a8567, type: 3}
+  m_Name: Ivysaur
+  m_EditorClassIdentifier: 
+  pokemonName: Ivysaur
+  description: 
+  frontSprite: {fileID: 21300000, guid: e0e7310564eba482683e126787b86494, type: 3}
+  backSprite: {fileID: 21300000, guid: e4d4894b84cb64792bdc304002d142cc, type: 3}
+  type1: 10
+  type2: 14
+  maxHp: 60
+  attack: 62
+  defense: 63
+  spAttack: 80
+  spDefense: 80
+  speed: 60
+  movePool: []
